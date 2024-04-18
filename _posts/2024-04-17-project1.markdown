@@ -1,0 +1,25 @@
+---
+
+layout: post
+title:  "cs52 - Lab 1"
+date:   2024-04-17
+categories: jekyll update
+
+---
+
+### Overview
+
+In this lab I showcase my basic understanding of html and CSS skills learned from a timespan of 1 week. In this lab, I explored firstly building the html structure from stratch and then further organize the layout using CSS.
+
+### Highlights
+
+- Functional hamburger menu bar with drawer menu achieved by pure CSS
+- Interative CSS animations 
+
+### Screenshots
+
+![image](/images/laptop.jpg)
+
+### Demo
+
+https://lab1-landingpage-jieya-zhao.onrender.com/
